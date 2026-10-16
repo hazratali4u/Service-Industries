@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+
+  
+  <!--<Server>DESKTOP-01EBM81</Server>
+  <DBName>Service</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>Fast1234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>-->
+
+
+  <Server>samsl.faastdemo.com</Server>
+  <DBName>Service</DBName>
+  <DBUser>app</DBUser>
+  <DBPassword>Fast12341234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>
+
+</AppSettings>
